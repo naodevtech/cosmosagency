@@ -17,6 +17,6 @@ Nous délivrons des solutions digitale personnalisée adaptée au besoins de cha
 ![DesktopCosmos!](https://github.com/naodevtech/cosmosagency/blob/master/public/assets/github/ezgif.com-video-to-gif.gif)
 
 
-## Version Tablet 🖥 : 
+## Version Tablette 🖥 : 
 
 ![TabletCosmos!](https://github.com/naodevtech/cosmosagency/blob/master/public/assets/github/Capture%20d%E2%80%99%C3%A9cran%202020-04-29%20%C3%A0%2019.40.55.png)
